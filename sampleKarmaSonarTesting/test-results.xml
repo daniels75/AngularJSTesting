@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="PhantomJS 1.9.1 (Windows 7)" package="" timestamp="2013-08-30T09:37:44" id="0" hostname="GDNM0131" tests="9" errors="0" failures="0" time="0.064">
+    <properties>
+      <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.1 Safari/534.34"/>
+    </properties>
+    <testcase name="should create clickable titles" time="0.035" classname="PhantomJS 1.9.1 (Windows 7).tabs"/>
+    <testcase name="should bind the content" time="0.006" classname="PhantomJS 1.9.1 (Windows 7).tabs"/>
+    <testcase name="should set active class on title" time="0.005" classname="PhantomJS 1.9.1 (Windows 7).tabs"/>
+    <testcase name="should set active class on content" time="0.008" classname="PhantomJS 1.9.1 (Windows 7).tabs"/>
+    <testcase name="should change active pane when title clicked" time="0.007" classname="PhantomJS 1.9.1 (Windows 7).tabs"/>
+    <testcase name="should mark given pane selected" time="0.001" classname="PhantomJS 1.9.1 (Windows 7).tabs controller select"/>
+    <testcase name="should deselect other panes" time="0" classname="PhantomJS 1.9.1 (Windows 7).tabs controller select"/>
+    <testcase name="should append pane" time="0.002" classname="PhantomJS 1.9.1 (Windows 7).tabs controller addPane"/>
+    <testcase name="should select the first one" time="0" classname="PhantomJS 1.9.1 (Windows 7).tabs controller addPane"/>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </testsuite>
+</testsuites>
